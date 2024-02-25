@@ -1,0 +1,30 @@
+body {
+    background: rgb(255, 0, 140);
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+#letter {
+    margin: 0 auto;
+    width: 100px;
+    text-align: center;
+    font-size: 100px;
+    background: rgb(156, 242, 156);
+    color: rgb(255, 0, 140);
+    display: inline-block;
+    padding: 10px;
+}
+
+#success { 
+    margin: 0 auto;
+    width: 80px;
+    background: pink;
+    color: red;
+    font-size: 100px;
+    margin-top: 20px;
+}
