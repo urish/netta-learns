@@ -2,8 +2,8 @@ const letter = document.getElementById("letter")!;
 const success = document.getElementById("success")!;
 
 // const abc = "abcdefghijklmnopqrstuvwxyz".toUpperCase();
-const abc = "0123456789".toUpperCase();
-const successFigures = ["🦄", "😫"];
+const abc = "0123456789QWEQWEQWEASDASDASD".toUpperCase();
+const successFigures = ["🦄", "🤑"];
 let currentLetter;
 
 function nextLetter() {
